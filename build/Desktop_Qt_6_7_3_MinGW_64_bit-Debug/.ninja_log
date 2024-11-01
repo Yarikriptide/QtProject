@@ -1,0 +1,21 @@
+# ninja log v6
+30	180	7521554257329050	E:/Qt/MedicalRecordsSystem/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b6567b9e3c811065
+182	1238	7521554268293504	MedicalRecordsSystem_autogen/timestamp	a36cbe8f02f49f7c
+182	1238	7521554268293504	MedicalRecordsSystem_autogen/mocs_compilation.cpp	a36cbe8f02f49f7c
+1249	5096	7521554269523701	CMakeFiles/MedicalRecordsSystem.dir/MedicalRecordsSystem_autogen/mocs_compilation.cpp.obj	734ebd5c97fe981f
+182	1238	7521554268293504	E:/Qt/MedicalRecordsSystem/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/MedicalRecordsSystem_autogen/timestamp	a36cbe8f02f49f7c
+182	1238	7521554268293504	E:/Qt/MedicalRecordsSystem/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/MedicalRecordsSystem_autogen/mocs_compilation.cpp	a36cbe8f02f49f7c
+1255	5180	7521554269589104	CMakeFiles/MedicalRecordsSystem.dir/main.cpp.obj	1788c3c0b05b9169
+1266	5093	7521554269689427	CMakeFiles/MedicalRecordsSystem.dir/patient.cpp.obj	6e56eb5813000ffe
+1261	6454	7521554269639097	CMakeFiles/MedicalRecordsSystem.dir/mainwindow.cpp.obj	4dc65ad56b4232bf
+34	180	7521557875086726	E:/Qt/MedicalRecordsSystem/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b6567b9e3c811065
+210	442	7521557876839667	MedicalRecordsSystem_autogen/timestamp	a36cbe8f02f49f7c
+210	442	7521557876839667	MedicalRecordsSystem_autogen/mocs_compilation.cpp	a36cbe8f02f49f7c
+210	442	7521557876839667	E:/Qt/MedicalRecordsSystem/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/MedicalRecordsSystem_autogen/timestamp	a36cbe8f02f49f7c
+210	442	7521557876839667	E:/Qt/MedicalRecordsSystem/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/MedicalRecordsSystem_autogen/mocs_compilation.cpp	a36cbe8f02f49f7c
+443	4660	7521557879172240	CMakeFiles/MedicalRecordsSystem.dir/mainwindow.cpp.obj	4dc65ad56b4232bf
+4661	5303	7521557921347720	MedicalRecordsSystem.exe	b50e3ca041737e80
+33	174	7521558526396912	E:/Qt/MedicalRecordsSystem/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b6567b9e3c811065
+18	156	7521558932236296	E:/Qt/MedicalRecordsSystem/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b6567b9e3c811065
+20	164	7521561267768411	E:/Qt/MedicalRecordsSystem/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b6567b9e3c811065
+19	163	7521565989740758	E:/Qt/MedicalRecordsSystem/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b6567b9e3c811065

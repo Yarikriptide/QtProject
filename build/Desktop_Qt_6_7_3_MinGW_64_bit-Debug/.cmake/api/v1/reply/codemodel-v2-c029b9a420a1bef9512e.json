@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a04946667cf67e2b90e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MedicalRecordsSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MedicalRecordsSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MedicalRecordsSystem-Debug-14fd68e23d12b7a218f9.json",
+					"name" : "MedicalRecordsSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MedicalRecordsSystem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MedicalRecordsSystem_autogen-Debug-866209ea9c5df8f562d3.json",
+					"name" : "MedicalRecordsSystem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MedicalRecordsSystem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MedicalRecordsSystem_autogen_timestamp_deps-Debug-eb3513babae3b1d7a27e.json",
+					"name" : "MedicalRecordsSystem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Qt/MedicalRecordsSystem/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "E:/Qt/MedicalRecordsSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
